@@ -3,8 +3,7 @@
 - :book: I’m currently learning automation testing to make the testing process more easy and wide...
 - :handshake: I’m collaborating for other people also by my practice so we can grow together...
 - :e-mail: How to reach me aamirnaseer498@mail.com...
-- :link: Connect with me on LinkedIn: linkedin.com/in/aamir-naseer- 
-
+- :link: Connect with me on LinkedIn: https://www.linkedin.com/in/aamir-naseer-
 <!---
 aamirnaseer498/aamirnaseer498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
