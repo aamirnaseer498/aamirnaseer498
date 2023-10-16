@@ -1,6 +1,6 @@
 ## :bust_in_silhouette: Profile
 
- :wave: I'm Aamir Naseer, a passionate QA Automation Engineer based in Rawalpindi, Pakistan. I'm willing to learn new techniques and tools and shared with my circle and other people who is new in this field or want to learn more.
+ :wave: I'm Aamir Naseer, a passionate QA Automation Engineer from 📍 Rawalpindi, Pakistan. I'm willing to learn 📚 new techniques and tools 🛠️ and shared with my circle and other people who is new in this field or want to learn more.
 
 ## :wrench: Skills & Tools
 - **Skills:** Manual Testing, Automation Testing, API Testing, Test Cases, Bug Tracking 
