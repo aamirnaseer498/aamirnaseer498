@@ -3,13 +3,13 @@
  :wave: I'm Aamir Naseer, a passionate QA Automation Engineer from 📍 Rawalpindi, Pakistan. I'm willing to learn 📚 new techniques and tools 🛠️ and shared with my circle and other people who is new in this field or want to learn more.
 
 ## :wrench: Skills & Tools
-- **Skills:** Manual Testing (Mobile, Web, API), Automation Testing (Web, Mobile, API), Test Cases, Bug Tracking, Functional Testing, Non-Functional Testing, UI/UX Testing, Smoke Testing, Sanity Testing, Explorartory Testing, Adhoc Testing, End-to-end Testing, Regression Testing
-- **Languages:** JAVA, XML, JSON
+- **Skills:** Manual Testing (Mobile, Web, API) | Automation Testing (Web, Mobile, API) | Test Cases | Bug Tracking | Functional Testing | Non-Functional Testing | UI/UX Testing | Smoke Testing | Sanity Testing | Explorartory Testing | Adhoc Testing | End-to-end Testing | Regression Testing
+- **Languages:** JAVA | XML | JSON
 - **Databases:** SQL
-- **Platforms:** Android, iOS, Web, IoT
-- **Tools:** Intellij, Selenium, Appium, Android Studio, JMeter, Postman, Swagger, MySQL, Jira, ClickUp, Asana, Zoho Project
-- **Frameworks:** TestNG, Cucumber
-- **Extras:** Git, GitHub, Maven
+- **Platforms:** Android | iOS | Web | IoT
+- **Tools:** Intellij | Selenium | Appium | Android Studio | JMeter | Postman | Swagger | MySQL | Jira | ClickUp | Asana | Zoho Project
+- **Frameworks:** TestNG | Cucumber
+- **Extras:** Git | GitHub | Maven
 
 ## :seedling: Currently Learning
 I am currently learning API automation with REST Assured.
