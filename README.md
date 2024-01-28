@@ -4,12 +4,9 @@
 
 ## :wrench: Skills & Tools
 - **Skills:** Manual | Automation | Test Cases | Bug Tracking | Functional Testing | Non-Functional Testing | UI/UX Testing | Smoke Testing | Sanity Testing | Explorartory Testing | Adhoc Testing | End-to-end Testing | Regression Testing
-- **Languages:** JAVA | XML | JSON
-- **Databases:** SQL
+- **Languages:** JAVA | XML | JSON | SQL
 - **Platforms:** Web | Mobile | API | IoT
-- **Tools:** ClickUp | Jira | MySQL | JMeter | Postman | Swagger | Intellij | Selenium | Appium | REST Assured
-- **Frameworks:** TestNG | Cucumber
-- **Extras:** Git | GitHub | Maven
+- **Tools:** ClickUp | Jira | MySQL | JMeter | Postman | Swagger | Intellij | Selenium | Appium | REST Assured | TestNG | Cucumber | Git | GitHub | Maven
 
 ## :seedling: Currently Learning
 I am currently learning API automation with REST Assured.
