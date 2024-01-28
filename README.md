@@ -1,13 +1,13 @@
 ## :bust_in_silhouette: Profile
 
- :wave: I'm Aamir Naseer, a passionate Test Automation Engineer from 📍 Rawalpindi, Pakistan. I'm willing to learn 📚 new techniques and tools 🛠️ and shared with my circle and other people who is new in this field or want to learn more.
+ :wave: I'm Aamir Naseer, a passionate Test Automation Engineer from 📍 Rawalpindi, Pakistan. I'm willing to learn 📚 new techniques and tools 🛠️ and share them with my circle and other people who are new in this field or want to learn more.
 
 ## :wrench: Skills & Tools
-- **Skills:** Manual Testing (Mobile, Web, API) | Automation Testing (Web, Mobile, API) | Test Cases | Bug Tracking | Functional Testing | Non-Functional Testing | UI/UX Testing | Smoke Testing | Sanity Testing | Explorartory Testing | Adhoc Testing | End-to-end Testing | Regression Testing
+- **Skills:** Manual | Automation | Test Cases | Bug Tracking | Functional Testing | Non-Functional Testing | UI/UX Testing | Smoke Testing | Sanity Testing | Explorartory Testing | Adhoc Testing | End-to-end Testing | Regression Testing
 - **Languages:** JAVA | XML | JSON
 - **Databases:** SQL
-- **Platforms:** Android | iOS | Web | IoT
-- **Tools:** Intellij | Selenium | Appium | Android Studio | JMeter | Postman | Swagger | MySQL | Jira | ClickUp | Asana | Zoho Project
+- **Platforms:** Web | Mobile | API | IoT
+- **Tools:** ClickUp | Jira | MySQL | JMeter | Postman | Swagger | Intellij | Selenium | Appium | REST Assured
 - **Frameworks:** TestNG | Cucumber
 - **Extras:** Git | GitHub | Maven
 
